@@ -4,4 +4,6 @@ Muestre cuántos números son positivos, cuántos son negativos y cuántos ceros
  */
 
 let dimension:number =rls.questionInt("ingrese tamanio del arreglo :");
- let nombres:string[]=new Array(dimension);
+ let numeros:string[]=new Array(dimension);
+
+ let 

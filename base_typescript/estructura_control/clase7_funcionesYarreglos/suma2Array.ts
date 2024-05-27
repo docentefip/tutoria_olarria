@@ -4,9 +4,9 @@ el resultado en otro arreglo
 
 import * as rls from "readline-sync";
 
-let array1:number[]=new Array(3);
-let array2:number[]=new Array(3);
-let suma:number[]=new Array(3);
+let array1:number[]=new Array(6);
+let array2:number[]=new Array(6);
+let suma:number[]=new Array(6);
 
 
 

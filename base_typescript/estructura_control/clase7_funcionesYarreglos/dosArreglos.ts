@@ -20,6 +20,7 @@ function ingresarValores(arreglo:number[]|string[]) {
     
 }
 
+
 let nombres:string[]=new Array(2);
 
 let numeros:number[]=new Array(3);
